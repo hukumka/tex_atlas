@@ -1,0 +1,26 @@
+{
+  "textures": {
+    "1.png": {
+      "left": 218,
+      "top": 567,
+      "width": 218,
+      "height": 44
+    },
+    "pupper.png": {
+      "left": 0,
+      "top": 0,
+      "width": 392,
+      "height": 567
+    },
+    "0.png": {
+      "left": 0,
+      "top": 567,
+      "width": 218,
+      "height": 44
+    }
+  },
+  "size": {
+    "width": 436,
+    "height": 611
+  }
+}
